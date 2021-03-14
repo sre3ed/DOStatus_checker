@@ -3,5 +3,5 @@ This is a tool that can send Limitless Ping requests to a given ip-adrress( WARN
 
 
 
-USAGE
+USAGE-->>
 sh status.sh [ip address]
